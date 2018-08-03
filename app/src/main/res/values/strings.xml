@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string-array name="citiesList">
+        <item>Choose City</item>
+        <item>Cairo</item>
+        <item>Giza</item>
+        <item>Qalyubia</item>
+        <item>Alexandria</item>
+        <item>EL Beheira</item>
+        <item>Damietta</item>
+        <item>EL Dakahlia</item>
+        <item>EL Gharbia</item>
+        <item>EL Monufia</item>
+        <item>EL Sharqia</item>
+        <item>Ismailia</item>
+        <item>Seuz</item>
+        <item>Fayoum</item>
+        <item>Minya</item>
+        <item>Asyut</item>
+        <item>Sohag</item>
+        <item>Qena</item>
+        <item>Luxor</item>
+    </string-array>
+</resources>
